@@ -17,7 +17,7 @@
     left: 950px;
     width: 150px;
     height: 100px;
-    border-radius: 45%;
+    border-radius: 50%;
     background-color: white;
     z-index: 0;
 }
@@ -68,7 +68,7 @@ ul {
     background-color: white;
     display: inline-block;
     margin-right: 25px;
-    border-radius: 20%;
+    border-radius: 50%;
     font-weight: bold;
     text-align: center;
     padding: 10px;
@@ -81,10 +81,5 @@ ul {
     overflow: hidden;
     max-width: 150px;
     margin-bottom: -14px;
-}
-
-.arrow {
-    width:17px;
-    height:17px;
-    visibility: hidden;
+    margin-right: 100px;
 }
